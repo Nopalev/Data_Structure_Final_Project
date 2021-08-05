@@ -1,6 +1,6 @@
 # Data Structure Final Project
 A repository of my data structure class's final project  
-The project was a phone contact management system
+A phone contact management system
 
 ### Features
 - Contact sorting
