@@ -7,4 +7,4 @@ A phone contact management system
 - Data management (addition, deletion, modification)
 
 ### Bug
-- unnable to read contact's name with withline
+- Unnable to read contact's name with withline
